@@ -184,7 +184,7 @@ font-family: 'Montserrat';
     text-transform: uppercase;
     font-size: 18px;
     line-height: 16px;
-    margin-bottom: 40px;
+    /*margin-bottom: 40px;*/
     letter-spacing: 0.4px;
     color: #000000; }
   .split-intro .tagline {
@@ -673,9 +673,9 @@ nav ul li a:hover {
 
 .logoicon{
 	
-	width: 30px;
-	height: 30px;
-	margin-bottom:40px;
+	width: 35%;
+	height: auto;
+	margin-bottom:20px;
 	
 }
 
